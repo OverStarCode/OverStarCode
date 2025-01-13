@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
 Built a fully-featured **E-commerce app** using **MERN stack** and **Next.js**. It includes features like **user authentication**, **product management**, and an **admin dashboard**.
 
 #### 📸 Screenshot:
-![E-commerce App Screenshot](https://github.com/OverStarCode/e-commerce/blob/main/screenshot.png)
+![E-commerce App Screenshot](assest/images/e-commerce/1.jpeg)
 
 #### 🛠️ Technologies:
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
