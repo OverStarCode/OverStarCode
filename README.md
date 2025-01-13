@@ -67,7 +67,7 @@ Built a fully-featured **E-commerce app** using **MERN stack** and **Next.js**. 
 Developed a **finance management app** using **MERN stack** with **JWT authentication** and **Mongoose** database. Features include **login/registration**, **interactive frontend**, and **website management** for admins.
 
 #### 📸 Screenshot:
-![Finance App Screenshot](https://github.com/OverStarCode/finance/blob/main/screenshot.png)
+![Finance App Screenshot]([https://github.com/OverStarCode/finance/blob/main/screenshot.](https://github.com/OverStarCode/OverStarCode/blob/main/assest/images/e-commerce/1.jpeg)png)
 
 #### 🛠️ Technologies:
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
