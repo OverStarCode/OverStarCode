@@ -1,117 +1,68 @@
-# Hi, I'm Mahmoud Kamal 👋
-
-Welcome to my GitHub profile! I'm a passionate full-stack developer with experience in building scalable web applications and mobile apps. I specialize in the **MERN stack** and **Next.js** but also have experience with a wide range of technologies.
-
----
-
-## 🚀 Skills & Technologies
-
-### **Languages & Frameworks**
-- JavaScript (ES6+)
-- PHP
-- Python
-- HTML5, CSS3, SASS
-- TailwindCSS, Bootstrap
-- React.js, Next.js, React Native
-- Flask
-
-### **Backend & Databases**
-- Node.js, Express.js
-- MongoDB, MySQL, PostgreSQL, Oracle
-- Firebase
-
-### **Tools & Technologies**
-- Git, Docker, Kubernetes
-- JWT, REST APIs, Redux
-- Webpack, AWS, Google Cloud
-
----
-
-## 🔧 Featured Projects
-
-### **1. E-commerce App**
-A fully-featured **E-commerce app** built using the **MERN stack** and **Next.js**, with:
-- **User authentication**
-- **Product management**
-- **Admin dashboard**
-
-#### 🖼️ Screenshots:
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="assest/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/2.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/3.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <!-- Repeat for remaining images -->
-
-   <img src="assest/images/e-commerce/4.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/5.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/6.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-
-   <img src="assest/images/e-commerce/7.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/8.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/9.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-
-   <img src="assest/images/e-commerce/10.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/11.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/12.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-
-
-   <img src="assest/images/e-commerce/13.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/14.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/15.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-
-   <img src="assest/images/e-commerce/16.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/18.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-</div>
-
-#### 🛠️ Technologies:
 <div align="center">
   <h2>Technologies & Tools</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; padding: 20px; max-width: 800px; margin: 0 auto;">
+  <div style="
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 20px; 
+    justify-content: center; 
+    padding: 20px; 
+    max-width: 1000px; 
+    margin: 0 auto;">
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://reactjs.org/">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
       </a>
     </div>
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://nextjs.org/">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
       </a>
     </div>
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://nodejs.org/">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
       </a>
     </div>
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://www.mongodb.com/">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
       </a>
     </div>
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://jwt.io/">
         <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtoken&logoColor=white" alt="JWT" />
       </a>
     </div>
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://firebase.google.com/">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
       </a>
     </div>
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://expressjs.com/">
         <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js" />
       </a>
     </div>
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://mongoosejs.com/">
         <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
       </a>
     </div>
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://www.mysql.com/">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
       </a>
     </div>
+    
     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
       <a href="https://en.wikipedia.org/wiki/Representational_state_transfer">
         <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=api&logoColor=white" alt="REST API" />
@@ -119,6 +70,7 @@ A fully-featured **E-commerce app** built using the **MERN stack** and **Next.js
     </div>
   </div>
 </div>
+
 
 ---
 
