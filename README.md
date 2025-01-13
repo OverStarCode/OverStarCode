@@ -60,7 +60,7 @@ A fully-featured **E-commerce app** built using the **MERN stack** and **Next.js
   <img src="assest/images/e-commerce/15.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 
    <img src="assest/images/e-commerce/16.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/17.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/18.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
 #### 🛠️ Technologies:
