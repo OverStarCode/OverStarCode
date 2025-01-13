@@ -1,3 +1,79 @@
+# Hi, I'm Mahmoud Kamal 👋
+
+Welcome to my GitHub profile! I'm a passionate full-stack developer with experience in building scalable web applications and mobile apps. I specialize in the **MERN stack** and **Next.js**, but I also have experience with a wide range of technologies.
+
+---
+
+## 🚀 Skills & Technologies
+
+### **Languages & Frameworks:**
+- **JavaScript** (ES6+)
+- **PHP**
+- **Python**
+- **HTML5**
+- **CSS3**
+- **SASS**
+- **TailwindCSS**
+- **Bootstrap**
+- **React.js**
+- **Next.js**
+- **React Native**
+- **Flask**
+
+### **Backend & Databases:**
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **MySQL**
+- **PostgreSQL**
+- **Oracle**
+- **Firebase**
+
+### **Tools & Technologies:**
+- **Git**
+- **Docker**
+- **JWT**
+- **REST APIs**
+- **Redux**
+- **Webpack**
+- **Kubernetes**
+- **AWS**
+- **Google Cloud**
+
+### **Development Practices:**
+- Agile methodology, Version control (Git)
+- TDD (Test-Driven Development), CI/CD pipelines
+
+---
+
+## 🔧 Projects
+
+### 1. **[E-commerce App](https://github.com/OverStarCode/e-commerce)**
+Built a fully-featured **E-commerce app** using **MERN stack** and **Next.js**. It includes features like **user authentication**, **product management**, and an **admin dashboard**.
+
+#### 🖼 Screenshots:
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="assest/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/2.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/3.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/4.jpeg" alt="E-commerce App Screenshot 4" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/5.jpeg" alt="E-commerce App Screenshot 5" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/6.jpeg" alt="E-commerce App Screenshot 6" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/7.jpeg" alt="E-commerce App Screenshot 7" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/8.jpeg" alt="E-commerce App Screenshot 8" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/9.jpeg" alt="E-commerce App Screenshot 9" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/10.jpeg" alt="E-commerce App Screenshot 10" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/11.jpeg" alt="E-commerce App Screenshot 11" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/12.jpeg" alt="E-commerce App Screenshot 12" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/13.jpeg" alt="E-commerce App Screenshot 13" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/14.jpeg" alt="E-commerce App Screenshot 14" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/15.jpeg" alt="E-commerce App Screenshot 15" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/16.jpeg" alt="E-commerce App Screenshot 16" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/17.jpeg" alt="E-commerce App Screenshot 17" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+  <img src="assest/images/e-commerce/18.jpeg" alt="E-commerce App Screenshot 18" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+</div>
+
+---
 
 #### 🛠️ Technologies:
 <div align="center" >
