@@ -64,11 +64,61 @@ A fully-featured **E-commerce app** built using the **MERN stack** and **Next.js
 </div>
 
 #### 🛠️ Technologies:
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtoken&logoColor=white)](https://jwt.io/)
+<div align="center">
+  <h2>Technologies & Tools</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; padding: 20px; max-width: 800px; margin: 0 auto;">
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://reactjs.org/">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+      </a>
+    </div>
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://nextjs.org/">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      </a>
+    </div>
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://nodejs.org/">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+      </a>
+    </div>
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://www.mongodb.com/">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </a>
+    </div>
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://jwt.io/">
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtoken&logoColor=white" alt="JWT" />
+      </a>
+    </div>
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://firebase.google.com/">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
+      </a>
+    </div>
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://expressjs.com/">
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js" />
+      </a>
+    </div>
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://mongoosejs.com/">
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
+      </a>
+    </div>
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://www.mysql.com/">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+      </a>
+    </div>
+    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
+      <a href="https://en.wikipedia.org/wiki/Representational_state_transfer">
+        <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=api&logoColor=white" alt="REST API" />
+      </a>
+    </div>
+  </div>
+</div>
 
 ---
 
