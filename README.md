@@ -37,9 +37,24 @@ A fully-featured **E-commerce app** built using the **MERN stack** and **Next.js
 
 #### 🖼️ Screenshots:
 <p align="center">
-  <img src="https://github.com/OverStarCode/OverStarCode/blob/main/assets/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
-  <img src="https://github.com/OverStarCode/OverStarCode/blob/main/assets/images/e-commerce/2.jpeg" alt="E-commerce App Screenshot 2" width="30%" />
-  <img src="https://github.com/OverStarCode/OverStarCode/blob/main/assets/images/e-commerce/3.jpeg" alt="E-commerce App Screenshot 3" width="30%" />
+  <img src="assest/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+  <img src="assest/images/e-commerce/2.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+
+  <img src="assest/images/e-commerce/3.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+    <img src="assest/images/e-commerce/4.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+  <img src="assest/images/e-commerce/5.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+    <img src="assest/images/e-commerce/6.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+  <img src="assest/images/e-commerce/7.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+    <img src="assest/images/e-commerce/8.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+  <img src="assest/images/e-commerce/9.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+    <img src="assest/images/e-commerce/10.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+  <img src="assest/images/e-commerce/11.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+    <img src="assest/images/e-commerce/12.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+  <img src="assest/images/e-commerce/13.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+    <img src="assest/images/e-commerce/14.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+  <img src="assest/images/e-commerce/15.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+    <img src="assest/images/e-commerce/16.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
+  <img src="assest/images/e-commerce/17.jpeg" alt="E-commerce App Screenshot 1" width="30%" />
 </p>
 
 #### 🛠️ Technologies:
