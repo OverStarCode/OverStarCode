@@ -1,3 +1,4 @@
+
 # Hi, I'm Mahmoud Kamal 👋
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with experience in building scalable web applications and mobile apps. I specialize in the **MERN stack** and **Next.js** but also have experience with a wide range of technologies.
