@@ -52,89 +52,27 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
 Built a fully-featured **E-commerce app** using **MERN stack** and **Next.js**. It includes features like **user authentication**, **product management**, and an **admin dashboard**.
 
 #### 🖼 Screenshots:
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;" align="center">
-  <img src="assest/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/2.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/3.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/4.jpeg" alt="E-commerce App Screenshot 4" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/5.jpeg" alt="E-commerce App Screenshot 5" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/6.jpeg" alt="E-commerce App Screenshot 6" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/7.jpeg" alt="E-commerce App Screenshot 7" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/8.jpeg" alt="E-commerce App Screenshot 8" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/9.jpeg" alt="E-commerce App Screenshot 9" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/10.jpeg" alt="E-commerce App Screenshot 10" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/11.jpeg" alt="E-commerce App Screenshot 11" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/12.jpeg" alt="E-commerce App Screenshot 12" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/13.jpeg" alt="E-commerce App Screenshot 13" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/14.jpeg" alt="E-commerce App Screenshot 14" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/15.jpeg" alt="E-commerce App Screenshot 15" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/16.jpeg" alt="E-commerce App Screenshot 16" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/18.jpeg" alt="E-commerce App Screenshot 18" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="assest/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 1" style="height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="assest/images/e-commerce/2.jpeg" alt="E-commerce App Screenshot 2" style="height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="assest/images/e-commerce/3.jpeg" alt="E-commerce App Screenshot 3" style="height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="assest/images/e-commerce/4.jpeg" alt="E-commerce App Screenshot 4" style="height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="assest/images/e-commerce/5.jpeg" alt="E-commerce App Screenshot 5" style="height: 200px; object-fit: cover; border-radius: 8px;">
 </div>
 
 ---
 
 #### 🛠️ Technologies:
-<div align="center" >
-  <h2>Technologies & Tools</h2>
-  <div style="display: flex ; flex-wrap: wrap; padding: 20px; max-width: 800px; margin: 0 auto;">
-    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-      <a href="https://reactjs.org/">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-      </a>
-    </div>
-    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-      <a href="https://nextjs.org/">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      </a>
-    </div>
-    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-      <a href="https://nodejs.org/">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-      </a>
-    </div>
-    <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px;  gap:50px; background-color: #f9f9f9;">
-      <a href="https://www.mongodb.com/">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </a>
-    </div>
-   
-<div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-     <a href="https://firebase.google.com/">
-     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
-     </a>
-</div>
-<div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-     <a href="https://expressjs.com/">
-     <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js" />
-     </a>
-</div>
-<div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-     <a href="https://mongoosejs.com/">
-     <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" alt="Mongoose" />
-     </a>
-</div>
-<div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-     <a href="https://www.mysql.com/">
-     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-     </a>
-</div>
-
- <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-      <a href="https://en.wikipedia.org/wiki/Representational_state_transfer">
-        <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=api&logoColor=white" alt="REST API" />
-      </a>
-    </div>
-     <div style="box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
-      <a href="https://jwt.io/">
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtoken&logoColor=white" alt="JWT" />
-      </a>
-    </div>
-  </div>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" /></a>
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" alt="Express.js" /></a>
 </div>
 
 ---
-
 
 ### **2. Finance Management App**
 A robust **finance management app** developed using **MERN stack** with:
@@ -144,8 +82,8 @@ A robust **finance management app** developed using **MERN stack** with:
 
 #### 🖼️ Screenshots:
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <img src="assets/images/finance/1.jpeg" alt="Finance App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assets/images/finance/2.jpeg" alt="Finance App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assets/images/finance/1.jpeg" alt="Finance App Screenshot 1" style="height: 150px; object-fit: cover; border-radius: 10px;">
+  <img src="assets/images/finance/2.jpeg" alt="Finance App Screenshot 2" style="height: 150px; object-fit: cover; border-radius: 10px;">
 </div>
 
 #### 🛠️ Technologies:
@@ -163,7 +101,7 @@ Built a **cross-platform mobile app** using **React Native** for both **iOS** an
 
 #### 🖼️ Screenshot:
 <div align="center">
-  <img src="https://github.com/OverStarCode/cross-platform-app/blob/main/screenshot.png" alt="Cross-Platform Mobile App Screenshot" style="width: 300px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/OverStarCode/cross-platform-app/blob/main/screenshot.png" alt="Cross-Platform Mobile App Screenshot" style="height: 300px; object-fit: cover; border-radius: 10px;">
 </div>
 
 #### 🛠️ Technologies:
