@@ -52,7 +52,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
 Built a fully-featured **E-commerce app** using **MERN stack** and **Next.js**. It includes features like **user authentication**, **product management**, and an **admin dashboard**.
 
 #### 🖼 Screenshots:
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;" align="center">
   <img src="assest/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
   <img src="assest/images/e-commerce/2.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
   <img src="assest/images/e-commerce/3.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
@@ -69,7 +69,6 @@ Built a fully-featured **E-commerce app** using **MERN stack** and **Next.js**. 
   <img src="assest/images/e-commerce/14.jpeg" alt="E-commerce App Screenshot 14" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
   <img src="assest/images/e-commerce/15.jpeg" alt="E-commerce App Screenshot 15" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
   <img src="assest/images/e-commerce/16.jpeg" alt="E-commerce App Screenshot 16" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
-  <img src="assest/images/e-commerce/17.jpeg" alt="E-commerce App Screenshot 17" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
   <img src="assest/images/e-commerce/18.jpeg" alt="E-commerce App Screenshot 18" style="width: 200px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px;">
 </div>
 
