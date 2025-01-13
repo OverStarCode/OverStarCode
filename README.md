@@ -38,9 +38,29 @@ A fully-featured **E-commerce app** built using the **MERN stack** and **Next.js
 #### 🖼️ Screenshots:
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;">
   <img src="assest/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="assest/images/e-commerce/1.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/2.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/3.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   <!-- Repeat for remaining images -->
+
+   <img src="assest/images/e-commerce/4.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/5.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/6.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+
+   <img src="assest/images/e-commerce/7.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/8.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/9.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+
+   <img src="assest/images/e-commerce/10.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/11.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/12.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+
+
+   <img src="assest/images/e-commerce/13.jpeg" alt="E-commerce App Screenshot 1" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/14.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/15.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+
+   <img src="assest/images/e-commerce/16.jpeg" alt="E-commerce App Screenshot 2" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="assest/images/e-commerce/17.jpeg" alt="E-commerce App Screenshot 3" style="width: 200px; height: 150px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
 </div>
 
 #### 🛠️ Technologies:
