@@ -5,43 +5,43 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with experie
 ## 🚀 Skills & Technologies
 
 ### **Languages & Frameworks:**
-- <span style="color:#f39c12">**JavaScript** (ES6+)</span>
-- <span style="color:#3498db">**PHP**</span>
-- <span style="color:#9b59b6">**Python**</span>
-- <span style="color:#e74c3c">**HTML5**</span>
-- <span style="color:#f1c40f">**CSS3**</span>
-- <span style="color:#34495e">**SASS**</span>
-- <span style="color:#1abc9c">**TailwindCSS**</span>
-- <span style="color:#9b59b6">**Bootstrap**</span>
-- <span style="color:#e74c3c">**React.js**</span>
-- <span style="color:#e74c3c">**Next.js**</span>
-- <span style="color:#9b59b6">**React Native**</span>
-- <span style="color:#e74c3c">**Flask**</span>
+- **JavaScript** (ES6+)
+- **PHP**
+- **Python**
+- **HTML5**
+- **CSS3**
+- **SASS**
+- **TailwindCSS**
+- **Bootstrap**
+- **React.js**
+- **Next.js**
+- **React Native**
+- **Flask**
 
 ### **Backend & Databases:**
-- <span style="color:#2ecc71">**Node.js**</span>
-- <span style="color:#2ecc71">**Express.js**</span>
-- <span style="color:#9b59b6">**PHP**</span>
-- <span style="color:#2ecc71">**MongoDB**</span>
-- <span style="color:#9b59b6">**MySQL**</span>
-- <span style="color:#9b59b6">**PostgreSQL**</span>
-- <span style="color:#2ecc71">**Oracle**</span>
-- <span style="color:#9b59b6">**Firebase**</span>
+- **Node.js**
+- **Express.js**
+- **PHP**
+- **MongoDB**
+- **MySQL**
+- **PostgreSQL**
+- **Oracle**
+- **Firebase**
 
 ### **Tools & Technologies:**
-- <span style="color:#f1c40f">**Git**</span>
-- <span style="color:#f1c40f">**Docker**</span>
-- <span style="color:#f1c40f">**JWT**</span>
-- <span style="color:#1abc9c">**REST APIs**</span>
-- <span style="color:#34495e">**Redux**</span>
-- <span style="color:#34495e">**Webpack**</span>
-- <span style="color:#1abc9c">**Kubernetes**</span>
-- <span style="color:#1abc9c">**AWS**</span>
-- <span style="color:#1abc9c">**Google Cloud**</span>
+- **Git**
+- **Docker**
+- **JWT**
+- **REST APIs**
+- **Redux**
+- **Webpack**
+- **Kubernetes**
+- **AWS**
+- **Google Cloud**
 
 ### **Development Practices:**
-- **Agile methodology**, Version control (Git)
-- **TDD (Test-Driven Development)**, CI/CD pipelines
+- Agile methodology, Version control (Git)
+- TDD (Test-Driven Development), CI/CD pipelines
 
 ---
 
@@ -54,11 +54,11 @@ Built a fully-featured **E-commerce app** using **MERN stack** and **Next.js**. 
 ![E-commerce App Screenshot](https://github.com/OverStarCode/e-commerce/blob/main/screenshot.png)
 
 #### 🛠️ Technologies:
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtoken&logoColor=white)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtoken&logoColor=white)](https://jwt.io/)
 
 ---
 
@@ -69,11 +69,11 @@ Developed a **finance management app** using **MERN stack** with **JWT authentic
 ![Finance App Screenshot](https://github.com/OverStarCode/finance/blob/main/screenshot.png)
 
 #### 🛠️ Technologies:
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtoken&logoColor=white)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtoken&logoColor=white)](https://jwt.io/)
 
 ---
 
@@ -84,8 +84,8 @@ Built a **cross-platform mobile app** using **React Native** to ensure a seamles
 ![Cross-Platform Mobile App Screenshot](https://github.com/OverStarCode/cross-platform-app/blob/main/screenshot.png)
 
 #### 🛠️ Technologies:
-- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)](https://reactnative.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
 
 ---
 
